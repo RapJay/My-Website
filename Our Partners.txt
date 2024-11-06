@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class Website</title>
+    <meta name="description" content="This is a website for class practice">
+    <style>
+        header {
+            background-color: green;
+            text-align: center;
+            padding: 40px;
+            color: white;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 30px;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-around;
+            padding: 20px;
